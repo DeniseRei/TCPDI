@@ -1,0 +1,24 @@
+{
+    "name": "tcpdi",
+    "version": "1.0.0",
+    "homepage": "https://github.com/DeniseRei/TCPDI",
+    "description": "PDF importer for TCPDF based on FPDI (supports optimized PDF 1.5+)",
+    "type": "library",
+    "keywords": ["pdf", "fpdi", "tcpdf", "tcpdi"],
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Denise Lopes",
+        "email": "lopesdeniserei@gmail.com",
+        "homepage": "https://github.com/DeniseRei"
+      }
+    ],
+    "autoload": {
+      "classmap": [
+        "tcpdi.php",
+        "fpdf_tpl.php",
+        "tcpdi_parser.php"
+      ]
+    }
+  }
+  
