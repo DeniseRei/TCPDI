@@ -11,4 +11,4 @@ git clone https://github.com/DeniseRei/TCPDI
 ```
 Via Composer
 ```sh
-composer require tcpdi
+composer require tcpdi# TCPDI
